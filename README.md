@@ -13,9 +13,6 @@ Hi! I am Sergei, fresh-start C++ developer<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bigbooksfan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bigbooksfan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
