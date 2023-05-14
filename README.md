@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi! I am Sergei, fresh-start C++ developer.
 🔭 I’m currently working on orbital flight simulation environment<br>🌱 I’m currently learning C++, Linux, Qt, design patterns and more
 
 
