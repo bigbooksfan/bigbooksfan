@@ -1,7 +1,6 @@
 # 💫 
 Hi! I am Sergei, fresh-start C++ developer<br>
-🔭 I’m currently working on orbital flight simulation environment<br>🌱 I’m currently learning C++, Linux, Qt, design patterns and more<br>
-[My best code yet](https://github.com/bigbooksfan/cpp-advanced-vector/blob/9825469d3ed5d510e013f2ee92f1bf2fbb4c2f28/advanced-vector/vector.h#LL270C56-L270C56) :)
+🔭 I’m currently working on orbital flight simulation environment<br>🌱 I’m currently learning C++, Linux, Qt, design patterns and more
 
 
 ## 🌐 Socials:
