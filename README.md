@@ -12,6 +12,8 @@ Hi! I am Sergei, C++ developer<br>
 ![](https://github-readme-stats.vercel.app/api?username=bigbooksfan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bigbooksfan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bigbooksfan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 Leetcode Progress:
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bigbooksfan)](https://github.com/bigbooksfan/leetcode-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
